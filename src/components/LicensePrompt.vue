@@ -13,7 +13,7 @@
       <div class="license-key">
         <input
           type="text"
-          autocomplete="off"
+          autocomplete="on"
           placeholder="License key"
           v-model="licenseKey"
         />
