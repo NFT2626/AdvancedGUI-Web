@@ -8,7 +8,7 @@ The code, especially the component and action system, are hightly modular making
 Note that even though the project is licensed under our custom MIT based license, third-party materials, such as graphics or fonts may be subject to copyright restrictions or other licenses.
 
 ## Demo
-The master branch is deployed to: https://advancedgui.netlify.app/
+The master branch is deployed to: https://advanced-gui-web.vercel.app/
 
 ## Project setup
 ```
